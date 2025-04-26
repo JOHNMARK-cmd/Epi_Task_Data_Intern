@@ -115,6 +115,8 @@ The calculated incidence rates revealed a notable difference in the burden of IL
 
 The ANOVA test indicated that there are significant differences in the ILI percentages across the three selected counties, suggesting regional disparities in influenza-like illness trends. This insight can inform targeted public health interventions, especially during peak ILI weeks.
 
+The summary table clearly indicates that Kakamega county is leading, and Machakos has a fairly controlled cases of illnesses. The scatter plot visualization gives an overview of findings.
+
 ### Recommendations for Public Health Response:
 Increase the level of surveillance: Its important to focus surveillance efforts on counties with higher incidence rates, especially during peak weeks that have been seen from the analysis. Continuos monitoring and evaluation activities can also be undertaken in the peak regions.
 
